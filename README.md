@@ -1,2 +1,2 @@
 # ClassAttendance
-This repository is a showcase of my exploratory data analysis and data visualization skills.
+This repository is a showcase of my exploratory data analysis and data visualization skills. The data used in this repository is modified and adapted by me from _PK: An Excel Expert_, https://www.pk-anexcelexpert.com/automated-attendance-sheet-in-excel-download/#google_vignette. All data and details are mocked up and fictional. It is all used for the purpose education and is not meant to be used in commerce.
